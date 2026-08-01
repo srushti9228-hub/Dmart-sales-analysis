@@ -60,7 +60,7 @@ The dataset contains retail transaction information including:
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard.png" alt="Dashboard" width="100%">
+  <img src="dashboard.png" alt="Dashboard" width="100%">
 </p>
 
 ---

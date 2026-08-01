@@ -1,7 +1,7 @@
 # 🛒 Dmart Sales Dashboard
 
 <p align="center">
-  <img src="dashboard.png" alt="Dmart Sales Dashboard" width="100%">
+  <img src="Dashboard Screenshot/dashboard.png" alt="Dmart Sales Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -12,26 +12,31 @@
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 The **Dmart Sales Dashboard** is an interactive Microsoft Excel dashboard developed to analyze retail sales performance. It transforms raw sales data into meaningful business insights using PivotTables, PivotCharts, KPIs, and Slicers.
 
-The dashboard enables users to monitor revenue, profit, customer behavior, payment methods, product categories, and city-wise performance through an intuitive and interactive interface.
+---
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard Screenshot/dashboard.png" alt="Dashboard Preview" width="100%">
+</p>
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze overall sales performance
-- Monitor business KPIs
+- Analyze sales performance
+- Track business KPIs
 - Compare category-wise sales
-- Identify top-performing cities
 - Analyze customer purchase behavior
-- Create an interactive business dashboard
+- Build an interactive dashboard
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -44,7 +49,7 @@ The dashboard enables users to monitor revenue, profit, customer behavior, payme
 
 ## 📂 Dataset
 
-The dataset contains retail transaction information including:
+The dataset includes:
 
 - Category
 - City
@@ -57,15 +62,7 @@ The dataset contains retail transaction information including:
 
 ---
 
-# 📊 Dashboard Preview
-
-<p align="center">
-  <img src="dashboard.png" alt="Dashboard" width="100%">
-</p>
-
----
-
-# 📈 Dashboard KPIs
+## 📈 Dashboard KPIs
 
 | KPI | Value |
 |------|-------|
@@ -77,20 +74,18 @@ The dataset contains retail transaction information including:
 
 ---
 
-# 📊 Dashboard Visualizations
+## 📊 Dashboard Visualizations
 
-- 📌 Sales by Payment Mode
-- 📌 Profit by Region
-- 📌 Net Sales by Category
-- 📌 Cities by Net Sales
-- 📌 Customer Type Distribution
-- 📌 Category-wise Average Discount
+- Sales by Payment Mode
+- Profit by Region
+- Net Sales by Category
+- Cities by Net Sales
+- Customer Type Distribution
+- Category-wise Average Discount
 
 ---
 
-# 🎛 Interactive Filters
-
-The dashboard includes dynamic slicers for:
+## 🎛 Interactive Filters
 
 - Category
 - City
@@ -98,82 +93,55 @@ The dashboard includes dynamic slicers for:
 
 ---
 
-# 💡 Key Insights
+## 💡 Key Insights
 
 - Electronics generated the highest Net Sales.
-- Chennai recorded the highest sales among all cities.
+- Chennai recorded the highest city sales.
 - Card, Cash, and UPI payments contributed almost equally.
 - Average Order Value is ₹1.92K.
 - Total Profit reached ₹6.87M.
-- Personal Care and Home Care categories also contributed significantly.
 
 ---
 
-# ✨ Features
-
-- Interactive Dashboard
-- Professional UI
-- KPI Cards
-- Dynamic Slicers
-- Pivot Charts
-- Easy Navigation
-- Business Insights
-- Clean Layout
-
----
-
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 Dmart-Sales-Dashboard/
 │
-├── Dashboard.png
-├── Dmart Sales Dashboard.xlsx
-├── Dataset.xlsx
 ├── README.md
-└── LICENSE
+├── Dashboard Screenshot/
+│   └── dashboard.png
+├── Dmart Sales Dashboard.xlsx
+├── Dataset/
+└── Data/
 ```
 
 ---
 
-# 🚀 How to Use
+## 🚀 How to Use
 
-1. Download the repository.
-2. Open the Excel workbook.
-3. Navigate to the **Dashboard** sheet.
-4. Use the slicers to filter data.
-5. Analyze KPIs and charts.
+1. Clone or download this repository.
+2. Open **Dmart Sales Dashboard.xlsx**.
+3. Navigate to the Dashboard sheet.
+4. Use slicers to interact with the dashboard.
 
 ---
 
-# 🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
 - Data Visualization
 - Dashboard Design
+- Business Intelligence
 - Pivot Tables
 - Pivot Charts
-- Business Intelligence
-- Retail Sales Analysis
-- Excel Automation
+- Excel Dashboarding
 
 ---
 
-# 🔮 Future Improvements
-
-- Monthly Sales Trend
-- Customer Segmentation
-- Regional Analysis
-- Power BI Version
-- Forecasting Dashboard
-
----
-
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Srushti Anandrao Kumbhar**
 
----
-
-⭐ **If you like this project, don't forget to Star ⭐ the repository!**
+⭐ If you found this project useful, don't forget to **Star** the repository!

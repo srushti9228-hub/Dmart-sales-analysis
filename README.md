@@ -1,7 +1,7 @@
 # 🛒 Dmart Sales Dashboard
 
 <p align="center">
-  <img src="dashboard.png" alt="Dmart Sales Dashboard" width="100%">
+  <img src="Dashboard.png" alt="Dmart Sales Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -173,11 +173,6 @@ Dmart-Sales-Dashboard/
 # 👩‍💻 Author
 
 **Srushti Anandrao Kumbhar**
-
-### Connect with Me
-
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 💻 GitHub: *(Add your GitHub URL)*
 
 ---
 

@@ -1,7 +1,7 @@
 # 🛒 Dmart Sales Dashboard
 
 <p align="center">
-  <img src="Dashboard.png" alt="Dmart Sales Dashboard" width="100%">
+  <img src="dashboard.png" alt="Dmart Sales Dashboard" width="100%">
 </p>
 
 <p align="center">
